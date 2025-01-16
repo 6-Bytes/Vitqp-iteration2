@@ -1,0 +1,4 @@
+22-10-24: nodejs init and express js installed, simple server written in server.js 
+
+
+24-10-24: server.js is being updated to read from a CSV file
